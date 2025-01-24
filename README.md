@@ -20,12 +20,6 @@ This is the **GokerVip Script** for **Free Fire**, originally created by **[Goke
 - **Speed x3**: Increase movement speed by three times.
 - **Help Aim x2**: Improve aim assist by doubling its effect.
 
-## License
-
-This project is licensed under the **GokerVip Script License**. See the [LICENSE](LICENSE) file for more details.
-
-- **Original Author**: **[Goker](https://www.youtube.com/@gokervip9)**
-- **Security Enhancements by**: **VxModder** (2025)
 
 ## Usage
 
@@ -34,19 +28,9 @@ This project is licensed under the **GokerVip Script License**. See the [LICENSE
 2. **Grant root permissions** to **GameGuardian**. Ensure that your device is rooted.
 3. **Run the script**: The script is included with the **modified GameGuardian**. Simply load the script through **GameGuardian** and follow the on-screen instructions for configuration.
 
-### 💡 **Instructions:**
-1. Download or clone the repository.
-2. Import the script into **modified GameGuardian**.
-3. Follow the on-screen instructions for configuring the script to suit your needs in **Free Fire**.
-
-## Acknowledgements
-
-- **[Goker](https://www.youtube.com/@gokervip9)** for the original creation of the **GokerVip Script** for **Free Fire**.
-- **VxModder** for the **security enhancements** to **GameGuardian**.
-
 ## Contact
 
-For any issues, modifications, or requests, please contact **VxModder** directly through the repository issues or email.
+For any issues, modifications, or requests, please contact **GokerVip** directly.
 
 You can also reach out to **Goker** via:
 - [YouTube Channel](https://www.youtube.com/@gokervip9)
@@ -55,6 +39,9 @@ You can also reach out to **Goker** via:
 ## License Information
 
 This software is provided under the **GokerVip Script License (adapted)**. Please refer to the [LICENSE](LICENSE) file for full terms and conditions.
+
+- **Original Author**: **[Goker](https://www.youtube.com/@gokervip9)**
+- **Security Enhancements by**: **VxModder** (2025)
 
 ---
 
