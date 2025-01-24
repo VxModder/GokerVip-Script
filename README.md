@@ -3,7 +3,7 @@
 
 This is the **GokerVip Script** for **Free Fire**, originally created by **[Goker](https://www.youtube.com/@gokervip9)**, with **security enhancements** for **GameGuardian** by **VxModder**. The modifications applied are specifically for improving the **security** of **GameGuardian** and ensuring the script is used safely and without unauthorized tampering.
 
-### 🔒 **Key Features:**
+### 🔒 **Script Features:**
 - **Bypass**: Bypass anti-cheat mechanisms to prevent detection.
 - **Antennas**: See enemies from far away or through walls.
 - **Regedits**: Modify game values to help achieve more critical hits/headshots.
