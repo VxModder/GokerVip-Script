@@ -6,7 +6,7 @@ This is the **GokerVip Script** for **Free Fire**, originally created by **[Goke
 ### 🔒 **Key Features:**
 - **Bypass**: Bypass anti-cheat mechanisms to prevent detection.
 - **Antennas**: See enemies from far away or through walls.
-- **Regrets**: Reverse certain in-game actions.
+- **Regedits**: Modify game values to help achieve more critical hits/headshots.
 - **Headshot Options**: Modify headshot functionality for better accuracy.
 - **Black and White (Character Color)**: Change the character's visual color to black and white.
 - **Quick Menu Changes**: Switch between different versions of the menu (v1, v2, v3).
