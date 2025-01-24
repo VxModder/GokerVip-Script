@@ -45,4 +45,4 @@ This software is provided under the **GokerVip Script License (adapted)**. Pleas
 
 ---
 
-Made with ❤️ by **VxModder**
+Made with ❤️ by **GokerVip**
